@@ -61,6 +61,6 @@ pip install -r requirements_rgbt.txt
 ```
 
 ## :white_check_mark: Updates
-* **` Novermber. 18th, 2024`:** The source code is provided. 
+* **` January 19, 2025`:** The code will be published after the paper is accepted.  
 
 ## **Acknowledgment**
